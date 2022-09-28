@@ -1,12 +1,20 @@
-# Easy-SXampp
+# **Iniciador de XAMPP**
+##### Hecho por Antonio-FP :computer:
 
 
-Description:
-Easy bash script to start xampp easily and fast.
+---
+# *Información*
+Script creado para iniciar de una forma sencilla el programa de XAMPP :blush:
 
-Usage:
--Download script.
--Go to folder and execute:
-  bash xampp.sh
+---
+# *Uso*
+
++ Descargas el archivo en la carpeta que desees
++ Una vez esté descargado, te diriges a la carpeta mediante la terminal.
++ Ejecutas el siguiente comando:
   
- Enjoy!
+```bash
+bash xampp.sh
+```
+
+### Enjoy! :confetti_ball:
